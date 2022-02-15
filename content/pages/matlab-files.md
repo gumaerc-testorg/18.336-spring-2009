@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: MATLAB Files
 uid: 80a41719-c571-5a2d-7b39-ba2514ef5b68
 ---
