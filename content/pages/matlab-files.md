@@ -8,19 +8,19 @@ uid: 80a41719-c571-5a2d-7b39-ba2514ef5b68
 
 Many of the MATLAB programs linked below are from the [_Computational Science and Engineering_](http://www-math.mit.edu/cse) ("CSE") Web site. Many more great MATLAB programs can be found there.
 
-*   **Four linear PDE solved by Fourier series:** mit18086\_linpde\_fourier.m ([M](/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/matlab-files/mit18086_linpde_fourier.m))  
+*   **Four linear PDE solved by Fourier series:** mit18086\_linpde\_fourier.m ([M]({{< baseurl >}}/resources/mit18086_linpde_fourier))  
     Shows the solution to the IVPs u\_t=u\_x, u\_t=u\_xx, u\_t=u\_xxx, and u\_t=u\_xxxx, with periodic b.c., computed using Fourier series. The initial condition is given by its Fourier coefficients. In the example a box function is approximated.
-*   **Compute stencil approximating a derivative given a set of points and plot von Neumann growth factor:** mit18086\_stencil\_stability.m ([M](/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/matlab-files/mit18086_stencil_stability.m))  
+*   **Compute stencil approximating a derivative given a set of points and plot von Neumann growth factor:** mit18086\_stencil\_stability.m ([M]({{< baseurl >}}/resources/mit18086_stencil_stability))  
     Computes the stencil weights which approximate the n-th derivative for a given set of points. Also plots the von Neumann growth factor of an explicit time step method (with Courant number r), solving the initial value problem u\_t = u\_nx.  
     Example for third derivative of four points to the left:  
     \>> mit18086\_stencil\_stability (-3:0,3,.1)
-*   **Error convergence for the 1d Poisson equation:** mit18336\_poisson1d\_error.m ([M](/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/matlab-files/mit18336_poisson1d_error.m)) (CSE)  
+*   **Error convergence for the 1d Poisson equation:** mit18336\_poisson1d\_error.m ([M]({{< baseurl >}}/resources/mit18336_poisson1d_error)) (CSE)  
     Sets up a sequence of 1d Poisson problems, and plots the error convergence on log-log scale.
 *   **Sets up and solves a sparse system for the 1d, 2d and 3d Poisson equation:** [mit18086\_poisson.m](http://www-math.mit.edu/cse/codes/mit18086_poisson.m) (CSE)  
     Sets up a sparse system by finite differences for the 1d Poisson equation, and uses Kronecker products to set up 2d and 3d Poisson matrices from it. The systems are solved by the backslash operator, and the solutions plotted for 1d and 2d.
 *   **Computes the LU decomposition of a 2d Poisson matrix with different node ordering:** [mit18086\_fillin.m](http://www-math.mit.edu/cse/codes/mit18086_fillin.m) (CSE)  
     Sets up a 2d Poisson problem and computes the LU decomposition of the system matrix, firstly with lexicographic ordering, then with red-black ordering and then with symamd ordering.
-*   **Demo for elimination with reordering:** moe.m ([M](/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/matlab-files/moe.m))  
+*   **Demo for elimination with reordering:** moe.m ([M]({{< baseurl >}}/resources/moe))  
     Visualizes elimination with various reordering methods for a 2d Poisson problem. Reordering methods are reverse Cuthill-McKee, minimum degree, symamd, and nested dissection.
 *   **Computes the incomplete LU factorization of a 2d Poisson matrix for different tolerances:** [mit18086\_ilu.m](http://www-math.mit.edu/cse/codes/mit18086_ilu.m) (CSE)  
     Sets up a 2d Poisson problem and computes the LU factorization and the incomplete LU factorization for different tolerances. Run times, condition numbers and nonzero pattern are plotted for comparison.

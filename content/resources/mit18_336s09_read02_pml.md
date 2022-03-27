@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bad3c0e7-381b-2096-3b6d-fd3c887e2be9
 resourcetype: Document
 title: MIT18_336s09_read02_pml.pdf
 uid: 3928c649-c9a5-de00-aa73-ee2d9ba9bc4d

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bad3c0e7-381b-2096-3b6d-fd3c887e2be9
 resourcetype: Document
 title: MIT18_336s09_read01_waveequations.pdf
 uid: d704b9e4-514c-d2c2-2c38-20d0b5605200
