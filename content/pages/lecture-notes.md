@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: 'This section features the full set of the lecture notes for the course
+  (except one guest lecture). '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 24b4783b-01bd-9266-c95e-35fdec20a9d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -31,7 +37,7 @@ FILES
 Fundamental concepts and examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec1))
+({{% resource_link 2da291f8-0e0d-f5ce-ca25-f76df3c91a5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +49,7 @@ Fundamental concepts and examples
 Well-posedness and Fourier methods for linear initial value problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec2))
+({{% resource_link 4abfb092-3544-bc26-cbbe-98451dcd2157 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +61,7 @@ Well-posedness and Fourier methods for linear initial value problems
 Laplace and Poisson equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec3))
+({{% resource_link bbb57461-5fa0-6811-362d-97691709017a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +73,7 @@ Laplace and Poisson equation
 Heat equation, transport equation, wave equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec4))
+({{% resource_link 587700ab-174a-13d8-eedb-388932f01069 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +85,7 @@ Heat equation, transport equation, wave equation
 General finite difference approach and Poisson equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec5))
+({{% resource_link 32dc4472-b296-7f90-761d-b3677eade13e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +97,7 @@ General finite difference approach and Poisson equation
 Elliptic equations and errors, stability, Lax equivalence theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec6))
+({{% resource_link c395389a-94e1-1779-97aa-6364b24852d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +109,7 @@ Elliptic equations and errors, stability, Lax equivalence theorem
 Spectral methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec7))
+({{% resource_link a9c4ca8d-cf83-7769-7415-66c669181cbc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +133,7 @@ Spectral methods
 Spectral methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec9))
+({{% resource_link 28ffa7d6-3457-de55-574f-82ee466c25d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +145,7 @@ Spectral methods
 Elliptic equations and linear systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec10))
+({{% resource_link 94c3175b-4775-c7d3-4fce-42c498de2be4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +157,7 @@ Elliptic equations and linear systems
 Efficient methods for sparse linear systems: Multigrid
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec11))
+({{% resource_link 942cf4e4-e146-1c0d-6c51-45dc255b9320 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +169,7 @@ Efficient methods for sparse linear systems: Multigrid
 Efficient methods for sparse linear systems: Krylov methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec12))
+({{% resource_link 71ae6231-4690-6425-3a2e-977bfadd0019 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +181,7 @@ Efficient methods for sparse linear systems: Krylov methods
 Ordinary differential equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec13))
+({{% resource_link 379860bd-755f-63b2-873e-da4e2fc5a337 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +193,7 @@ Ordinary differential equations
 Stability for ODE and von Neumann stability analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec14))
+({{% resource_link c7c12acc-ea16-3007-9232-88875bb42604 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +205,7 @@ Stability for ODE and von Neumann stability analysis
 Advection equation and modified equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec15))
+({{% resource_link 286be919-8204-bea2-f7e7-d77f88e7b061 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +217,7 @@ Advection equation and modified equation
 Advection equation and ENO/WENO
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec16))
+({{% resource_link f7cdcec3-d4c0-9abb-1aa4-b57cc154d3f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +229,7 @@ Advection equation and ENO/WENO
 Conservation laws: Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec17))
+({{% resource_link 55d85c9c-edf0-91f7-1a61-1ce4a2e63514 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +241,7 @@ Conservation laws: Theory
 Conservation laws: Numerical methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec18))
+({{% resource_link 3ed0b039-79b2-d586-8bbf-5f44fdc5f3a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +253,7 @@ Conservation laws: Numerical methods
 Conservation laws: High resolution methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec19))
+({{% resource_link 814ce5a3-8ea0-db4c-58ef-f0c5ad8b111a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +265,7 @@ Conservation laws: High resolution methods
 Operator splitting, fractional steps
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec20))
+({{% resource_link 4104f8a0-cc8a-589a-fc4f-f2e5c13b7890 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +277,7 @@ Operator splitting, fractional steps
 Systems of IVP, wave equation, leapfrog, staggered grids
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec21))
+({{% resource_link a5fbe02f-31bf-18ef-6dba-8c1947e9b7a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +289,7 @@ Systems of IVP, wave equation, leapfrog, staggered grids
 Level set method
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec22))
+({{% resource_link b7581d91-7edb-6424-8402-ab8582294040 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +301,7 @@ Level set method
 Navier-Stokes equation: Finite difference methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec23))
+({{% resource_link b406f497-65c8-02cb-34f1-1df825842451 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +313,7 @@ Navier-Stokes equation: Finite difference methods
 Navier-Stokes equation: Pseudospectral methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec24))
+({{% resource_link f37c2674-3943-3cc6-f62b-0dec078e3d4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +325,7 @@ Navier-Stokes equation: Pseudospectral methods
 Particle methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_336s09_lec25))
+({{% resource_link ff7d4237-c8f9-58e6-46cc-a0702e4dd17b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

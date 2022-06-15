@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains description how to the Compute stencil approximating
   a derivative given a set of points and plot von Neumann growth factor.
-file: /media/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/5d904bd2074fe0e6efc7db7ca08b9d98_mit18086_stencil_stability.m
+file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/5d904bd2074fe0e6efc7db7ca08b9d98_mit18086_stencil_stability.m
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Other
 title: mit18086_stencil_stability.m
 uid: 5d904bd2-074f-e0e6-efc7-db7ca08b9d98
 ---
+This resource contains description how to the Compute stencil approximating a derivative given a set of points and plot von Neumann growth factor.
+
