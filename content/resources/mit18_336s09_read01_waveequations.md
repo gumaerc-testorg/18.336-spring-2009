@@ -7,6 +7,7 @@ file: /courses/18-336-numerical-methods-for-partial-differential-equations-sprin
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains various examples of wave equations in the physical sciences, characterized by oscillating solutions that propagate through space and time while, in lossless media, conserving energy.
-
