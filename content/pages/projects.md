@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course project.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: b47db6a9-6e19-a532-2c57-3a97bde7173c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Description and Schedule

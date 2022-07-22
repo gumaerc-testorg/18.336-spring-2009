@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedules of reading by topic and the list
+  of course textbooks.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bad3c0e7-381b-2096-3b6d-fd3c887e2be9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Readings are assigned in the following textbooks:
@@ -298,9 +307,9 @@ Systems of IVP, wave equation, leapfrog, staggered grids
 {{< tdopen >}}
 
 
-Notes on the wave equation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf))
+Notes on the wave equation ([PDF](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf))
 
-Notes on perfectly matching layers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://math.mit.edu/~stevenj/18.369/pml.pdf))
+Notes on perfectly matching layers ([PDF](http://math.mit.edu/~stevenj/18.369/pml.pdf))
 
 (Courtesy of Steven G. Johnson. Used with permission.)
 
@@ -318,9 +327,9 @@ Level set method
 {{< tdopen >}}
 
 
-Notes on the level set method ([PDF]({{< baseurl >}}/resources/mit18_336s09_read03_levelsetnotes))
+Notes on the level set method ({{% resource_link 58fddc2a-47c2-2a27-ff2a-c868cd3160d2 "PDF" %}})
 
-Presentation on the level set method ([PDF]({{< baseurl >}}/resources/mit18_336s09_read04_levelsetpres))
+Presentation on the level set method ({{% resource_link cac94c72-39a9-2f8c-4242-a4cb540ede35 "PDF" %}})
 
 (Courtesy of Per Olof Persson. Used with permission.)
 
