@@ -4,6 +4,7 @@ description: This resource contains various examples of wave equations in the ph
   sciences, characterized by oscillating solutions that propagate through space and
   time while, in lossless media, conserving energy.
 file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/d704b9e4514cd2c22c3820d0b5605200_MIT18_336s09_read01_waveequations.pdf
+file_size: 330352
 file_type: application/pdf
 learning_resource_types:
 - Readings
