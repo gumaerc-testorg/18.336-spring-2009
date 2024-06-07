@@ -4,6 +4,7 @@ description: This resource visulizes elimination with various reordering methods
   a 2d Poisson problem. Reordering methods are reverse Cuthill-McKee, minimum degree,
   symamd, and nested dissection.
 file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/68faedacf6653b382139f97869042fe8_moe.m
+file_size: 2914
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
