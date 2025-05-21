@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution to the four linear PDE solved by Fourier
   series.
-file: /ol-ocw-studio-app/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/327c2253074f00512050cfd78937ec5e_mit18086_linpde_fourier.m
+file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/327c2253074f00512050cfd78937ec5e_mit18086_linpde_fourier.m
 file_size: 816
 file_type: text/plain
 learning_resource_types: []
