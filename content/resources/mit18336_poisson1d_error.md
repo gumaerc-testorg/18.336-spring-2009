@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains explanation on how to sets up a sequence of 1d
   Poisson problems, and plots the error convergence on log-log scale.
-file: /ol-ocw-studio-app/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/fd7113ecbdbd0e4deff48ae25eb8c81e_mit18336_poisson1d_error.m
+file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/fd7113ecbdbd0e4deff48ae25eb8c81e_mit18336_poisson1d_error.m
 file_size: 1688
 file_type: text/plain
 learning_resource_types: []
