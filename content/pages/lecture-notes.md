@@ -118,7 +118,7 @@ Spectral methods
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Fast Fourier transform](http://cnx.org/content/m16336/latest/) (guest lecture by Steven Johnson)
+{{% resource_link "1101d337-294f-4807-97a2-c3dcf07c174e" "Fast Fourier transform" %}} (guest lecture by Steven Johnson)
 {{< tdclose >}}
 {{< tdopen >}}
  
